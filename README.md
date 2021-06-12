@@ -7,5 +7,6 @@
 &#10149; Br. Indeksa: 631/2019 \
 &#10149; Smer: Računarska tehnika i softversko inženjerstvo \
 &#10149; Fakultet inženjerskih nauka \
-&#10149; Univerzitet u Kragujevcu \
+&#10149; Univerzitet u Kragujevcu
 
+![gif1](https://tenor.com/view/mark-zuckerberg-robot-water-gif-12435300)
