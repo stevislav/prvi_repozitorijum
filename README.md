@@ -9,4 +9,4 @@
 &#10149; Fakultet inženjerskih nauka \
 &#10149; Univerzitet u Kragujevcu
 
-![gif1](https://tenor.com/view/mark-zuckerberg-robot-water-gif-12435300)
+![gif1](https://github.com/stevislav/prvi_repozitorijum/blob/master/tenor.gif)
